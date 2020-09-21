@@ -10,6 +10,11 @@ We took the idea of semantic pointers from Eliasmith's model *Semantic Pointer A
 
 As stated before we create these semantic pointer based on a set of semantic features, which are words that try to define a concept based on its relations with other words. We used the semantic feature dataset from McRae et al. 
 
+The following table correspond to the evaluation set used for the experiment:
+
+![EvaluationTest](https://github.com/jobquiroz/VSA_concept_rep/blob/master/HumanSimilarity%20Benchmark.png)
+
+
 **Description of files.**
 All codes were implemented as Python Notebooks. This repository also includes the files from the McRae dataset which were slightly modified to acomodate our needs. 
 
