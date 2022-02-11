@@ -1,5 +1,4 @@
-# VSA_concept_rep
-Concept representation model using Vector Symbolic Architectures
+# Concept representation with Vector Symbolic Architectures.
 
 ## Introduction.
 This repository includes all the files developed for the (under review) paper "Vector Symbolic Architectures for concept representation". 
